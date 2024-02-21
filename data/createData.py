@@ -51,12 +51,23 @@ def generate_postal_code(city):
     }
     return postal_code_formats[city]
 
+def get_country(city):
+    """Retrieves the country based on the given city."""
+    city_country_map = {
+        "London": "United Kingdom",
+        "New York": "United States",
+        "Hong Kong": "China",
+        "Singapore": "Singapore",
+        "Frankfurt": "Germany",
+    }
+    return city_country_map[city]
+
 def generate_firm(id):
     """Generates a random firm object with additional attributes."""
     firm_name = generate_fantasy_name(random.choice(["harry_potter", "star_wars"]))
     firm_type = random.choice(["bank", "investment bank", "asset manager", "wealth manager", "fund manager"])
     city = random.choice(["London", "New York", "Hong Kong", "Singapore", "Frankfurt"])
-    country = city  # For simplicity, using the city name as the country
+    country = get_country(city)
     aum = random.randint(10000000, 1000000000)
 
     established_at = datetime.now() - timedelta(days=random.randint(365 * 10, 365 * 30))
@@ -90,7 +101,9 @@ def generate_commitments(firms):
         asset_class = random.choice(asset_classes)
         amount = f"{random.randint(1, 100)}M"
         currency = random.choice(["GBP", "USD", "HKD", "SGD", "EUR"])
+        id = random.randint(10000, 99999)
         commitment = {
+            "id": id,
             "firm_id": firm_id,
             "asset_class": asset_class,
             "amount": amount,
