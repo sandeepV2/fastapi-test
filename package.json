@@ -1,0 +1,27 @@
+{
+  "name": "preqin_connect_container",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "browserslist": {
+    "production": [
+      "defaults",
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 2 chrome version",
+      "last 2 firefox version",
+      "last 2 safari version"
+    ]
+  },
+  "repository": "git@bitbucket.org:preqindevelopment/preqin-technical-test.git",
+  "author": "Nick Cain <nick.cain@preqin.com> | Jay Gadi <jay.gadi@preqin.com>",
+  "license": "MIT"
+}
