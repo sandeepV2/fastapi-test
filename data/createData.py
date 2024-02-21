@@ -56,6 +56,7 @@ def generate_firm(id):
     firm_name = generate_fantasy_name(random.choice(["harry_potter", "star_wars"]))
     firm_type = random.choice(["bank", "investment bank", "asset manager", "wealth manager", "fund manager"])
     city = random.choice(["London", "New York", "Hong Kong", "Singapore", "Frankfurt"])
+    country = city  # For simplicity, using the city name as the country
     aum = random.randint(10000000, 1000000000)
 
     established_at = datetime.now() - timedelta(days=random.randint(365 * 10, 365 * 30))
@@ -71,6 +72,7 @@ def generate_firm(id):
         "firm_name": firm_name,
         "firm_type": firm_type,
         "city": city,
+        "country": country,
         "AUM": aum,
         "date_added": established_at.strftime("%Y-%m-%d"),
         "last_updated": datetime.now().strftime("%Y-%m-%d"),
@@ -83,8 +85,8 @@ def generate_commitments(firms):
     """Generates a list of commitments."""
     asset_classes = ["re", "pe", "pd", "inf", "hf", "nr"]
     commitments = []
-    for _ in range(60):  # Generate 60 commitments
-        firm_id = random.choice([firm["firm_id"] for firm in firms])
+    for _ in range(300):  # Generate 300 commitments
+        firm_id = random.choice([2670, 2792, 332, 3611])  # Randomly choose from specified firm_ids
         asset_class = random.choice(asset_classes)
         amount = f"{random.randint(1, 100)}M"
         currency = random.choice(["GBP", "USD", "HKD", "SGD", "EUR"])

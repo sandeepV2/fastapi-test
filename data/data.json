@@ -1,414 +1,1858 @@
 {
     "firms": [
         {
-            "firm_id": 1,
-            "firm_name": "Ptd Organa fund",
-            "firm_type": "wealth manager",
+            "firm_id": 332,
+            "firm_name": "Wun Gryffindor plc",
+            "firm_type": "asset manager",
             "city": "Hong Kong",
-            "AUM": 901388560,
-            "date_added": "1996-07-22",
+            "country": "China",
+            "AUM": 412313852,
+            "date_added": "2008-09-02",
             "last_updated": "2024-02-21",
-            "established_at": "1996-07-22",
-            "address": "16 Nathan Road, Hong Kong",
-            "postal_code": "89H"
+            "established_at": "2008-09-02",
+            "address": "98 Causeway Bay, Hong Kong",
+            "postal_code": "31H"
         },
         {
-            "firm_id": 2,
-            "firm_name": "Nbx Ravenclaw plc",
-            "firm_type": "investment bank",
+            "firm_id": 2792,
+            "firm_name": "Ayv Jedi fund",
+            "firm_type": "bank",
+            "city": "New York",
+            "country": "USA",
+            "AUM": 806940424,
+            "date_added": "2013-02-22",
+            "last_updated": "2024-02-21",
+            "established_at": "2013-02-22",
+            "address": "14 Fifth Avenue, New York",
+            "postal_code": "98140"
+        },
+        {
+            "firm_id": 2670,
+            "firm_name": "Ver Palpatine ltd",
+            "firm_type": "asset manager",
+            "city": "London",
+            "country": "England",
+            "AUM": 309594564,
+            "date_added": "2011-04-24",
+            "last_updated": "2024-02-21",
+            "established_at": "2011-04-24",
+            "address": "20 Baker Street, London",
+            "postal_code": "W1C TDW"
+        },
+        {
+            "firm_id": 3611,
+            "firm_name": "Qfg Solo ltd",
+            "firm_type": "asset manager",
             "city": "Frankfurt",
-            "AUM": 334684929,
-            "date_added": "1997-02-05",
+            "country": "Germany",
+            "AUM": 765037757,
+            "date_added": "1996-11-17",
             "last_updated": "2024-02-21",
-            "established_at": "1997-02-05",
-            "address": "2 Hauptwache, Frankfurt",
-            "postal_code": "485"
-        },
-        {
-            "firm_id": 3,
-            "firm_name": "Zlj Organa fund",
-            "firm_type": "investment bank",
-            "city": "Hong Kong",
-            "AUM": 629200286,
-            "date_added": "2012-05-17",
-            "last_updated": "2024-02-21",
-            "established_at": "2012-05-17",
-            "address": "36 Queen's Road Central, Hong Kong",
-            "postal_code": "14L"
-        },
-        {
-            "firm_id": 4,
-            "firm_name": "Uws Dumbledore fund",
-            "firm_type": "fund manager",
-            "city": "Frankfurt",
-            "AUM": 209852150,
-            "date_added": "1996-03-27",
-            "last_updated": "2024-02-21",
-            "established_at": "1996-03-27",
-            "address": "30 Hauptwache, Frankfurt",
-            "postal_code": "524"
+            "established_at": "1996-11-17",
+            "address": "44 Hauptwache, Frankfurt",
+            "postal_code": "287"
         }
     ],
     "commitments": [
         {
-            "firm_id": 9,
-            "asset_class": "pe",
-            "amount": "1M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "hf",
-            "amount": "8M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "inf",
-            "amount": "23M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "re",
-            "amount": "52M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 8,
-            "asset_class": "pd",
-            "amount": "55M",
-            "currency": "GBP"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "re",
-            "amount": "95M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 10,
-            "asset_class": "hf",
-            "amount": "13M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "hf",
-            "amount": "27M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 10,
-            "asset_class": "inf",
-            "amount": "71M",
-            "currency": "GBP"
-        },
-        {
-            "firm_id": 10,
-            "asset_class": "re",
-            "amount": "54M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "pd",
-            "amount": "6M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 10,
-            "asset_class": "hf",
-            "amount": "44M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 4,
-            "asset_class": "re",
-            "amount": "3M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 3,
-            "asset_class": "pe",
-            "amount": "23M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 5,
-            "asset_class": "inf",
-            "amount": "11M",
-            "currency": "HKD"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "pd",
-            "amount": "46M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 8,
-            "asset_class": "pd",
-            "amount": "2M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 7,
-            "asset_class": "hf",
-            "amount": "91M",
-            "currency": "HKD"
-        },
-        {
-            "firm_id": 10,
-            "asset_class": "hf",
-            "amount": "31M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 4,
-            "asset_class": "inf",
-            "amount": "11M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 9,
+            "firm_id": 332,
             "asset_class": "nr",
-            "amount": "20M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 1,
-            "asset_class": "pe",
-            "amount": "68M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "nr",
-            "amount": "40M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 10,
-            "asset_class": "inf",
-            "amount": "13M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 2,
-            "asset_class": "pe",
-            "amount": "93M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 7,
-            "asset_class": "pd",
-            "amount": "45M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 1,
-            "asset_class": "pd",
-            "amount": "24M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 9,
-            "asset_class": "nr",
-            "amount": "43M",
-            "currency": "HKD"
-        },
-        {
-            "firm_id": 1,
-            "asset_class": "inf",
-            "amount": "53M",
-            "currency": "HKD"
-        },
-        {
-            "firm_id": 4,
-            "asset_class": "pd",
-            "amount": "4M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 5,
-            "asset_class": "hf",
-            "amount": "68M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 8,
-            "asset_class": "inf",
-            "amount": "39M",
-            "currency": "USD"
-        },
-        {
-            "firm_id": 1,
-            "asset_class": "re",
-            "amount": "21M",
-            "currency": "GBP"
-        },
-        {
-            "firm_id": 10,
-            "asset_class": "nr",
-            "amount": "40M",
-            "currency": "HKD"
-        },
-        {
-            "firm_id": 4,
-            "asset_class": "hf",
-            "amount": "50M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 1,
-            "asset_class": "inf",
             "amount": "85M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 9,
-            "asset_class": "pe",
-            "amount": "73M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 7,
-            "asset_class": "nr",
-            "amount": "8M",
-            "currency": "SGD"
-        },
-        {
-            "firm_id": 1,
-            "asset_class": "nr",
-            "amount": "97M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 9,
-            "asset_class": "nr",
-            "amount": "43M",
-            "currency": "EUR"
-        },
-        {
-            "firm_id": 4,
-            "asset_class": "re",
-            "amount": "64M",
-            "currency": "GBP"
-        },
-        {
-            "firm_id": 7,
-            "asset_class": "re",
-            "amount": "22M",
             "currency": "HKD"
         },
         {
-            "firm_id": 1,
+            "firm_id": 332,
+            "asset_class": "nr",
+            "amount": "4M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
             "asset_class": "inf",
-            "amount": "1M",
-            "currency": "USD"
+            "amount": "32M",
+            "currency": "SGD"
         },
         {
-            "firm_id": 3,
+            "firm_id": 332,
             "asset_class": "pe",
-            "amount": "55M",
-            "currency": "HKD"
-        },
-        {
-            "firm_id": 8,
-            "asset_class": "re",
-            "amount": "68M",
+            "amount": "95M",
             "currency": "USD"
         },
         {
-            "firm_id": 9,
-            "asset_class": "re",
+            "firm_id": 3611,
+            "asset_class": "pe",
             "amount": "12M",
             "currency": "SGD"
         },
         {
-            "firm_id": 9,
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "59M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "22M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "70M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "nr",
+            "amount": "11M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "15M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "76M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "90M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "65M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "21M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "22M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "9M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "84M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "49M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "63M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "51M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "47M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "10M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "36M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "18M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "34M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "65M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "inf",
+            "amount": "68M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "95M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "93M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
             "asset_class": "hf",
+            "amount": "2M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "48M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "95M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "inf",
+            "amount": "84M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "87M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "34M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "38M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "77M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "15M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "78M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "11M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "43M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "43M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "15M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "inf",
+            "amount": "77M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "86M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "80M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "75M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "85M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "34M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "27M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "inf",
+            "amount": "13M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "84M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "71M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "19M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "60M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "71M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "inf",
+            "amount": "17M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "12M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "2M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "13M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "11M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "52M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "67M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "97M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "79M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "54M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "48M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "72M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "70M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "8M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "51M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "61M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "91M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "17M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "26M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "12M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "22M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "43M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "29M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "100M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "95M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "66M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "86M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "89M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
             "amount": "96M",
             "currency": "EUR"
         },
         {
-            "firm_id": 3,
-            "asset_class": "hf",
-            "amount": "89M",
-            "currency": "GBP"
-        },
-        {
-            "firm_id": 9,
-            "asset_class": "pd",
-            "amount": "95M",
-            "currency": "HKD"
-        },
-        {
-            "firm_id": 3,
+            "firm_id": 2670,
             "asset_class": "re",
-            "amount": "21M",
+            "amount": "86M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "3M",
             "currency": "USD"
         },
         {
-            "firm_id": 10,
-            "asset_class": "hf",
-            "amount": "64M",
-            "currency": "EUR"
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "19M",
+            "currency": "GBP"
         },
         {
-            "firm_id": 6,
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "52M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "75M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2670,
             "asset_class": "hf",
-            "amount": "89M",
+            "amount": "41M",
             "currency": "HKD"
         },
         {
-            "firm_id": 8,
+            "firm_id": 2670,
             "asset_class": "inf",
-            "amount": "48M",
+            "amount": "92M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "13M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "nr",
+            "amount": "62M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "52M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "13M",
             "currency": "EUR"
         },
         {
-            "firm_id": 8,
-            "asset_class": "inf",
-            "amount": "3M",
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "100M",
             "currency": "EUR"
         },
         {
-            "firm_id": 9,
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "75M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "9M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "62M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "72M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
             "asset_class": "inf",
+            "amount": "87M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "8M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "58M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "18M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
             "amount": "75M",
             "currency": "HKD"
         },
         {
-            "firm_id": 8,
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "7M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "87M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "41M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "30M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "24M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
             "asset_class": "inf",
+            "amount": "72M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "58M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "69M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "5M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "79M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "nr",
+            "amount": "53M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "83M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "26M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "94M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "5M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "46M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "41M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "13M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "75M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "80M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "43M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "92M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "73M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "nr",
+            "amount": "67M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "99M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
             "amount": "95M",
             "currency": "USD"
         },
         {
-            "firm_id": 5,
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "40M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "36M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "32M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "42M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "67M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "56M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "71M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "hf",
+            "amount": "70M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "hf",
+            "amount": "16M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "6M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "32M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "12M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "34M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "24M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "25M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "63M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "20M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "4M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "38M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "31M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "19M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "19M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "47M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "7M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "15M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "35M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "82M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "85M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "66M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "5M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "80M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "82M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "inf",
+            "amount": "91M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "inf",
+            "amount": "53M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "29M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "60M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "76M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "93M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "30M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "76M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
             "asset_class": "hf",
             "amount": "10M",
             "currency": "EUR"
         },
         {
-            "firm_id": 6,
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "28M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "71M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "17M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "6M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "40M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "71M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "13M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "24M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "47M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "13M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "92M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "12M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "25M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "44M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "19M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "13M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "inf",
+            "amount": "98M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "31M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "44M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "75M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "71M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "85M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "hf",
+            "amount": "45M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "79M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "74M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "90M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "69M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "68M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "15M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "9M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "35M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "inf",
+            "amount": "21M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "inf",
+            "amount": "13M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "17M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "80M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "76M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "75M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "20M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "26M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "76M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "97M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "43M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "nr",
+            "amount": "44M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "hf",
+            "amount": "22M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "57M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "45M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "35M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "71M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "28M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "inf",
+            "amount": "91M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "17M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "96M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "14M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "94M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "71M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "66M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "53M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "70M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "13M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "95M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "55M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "90M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "60M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "86M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "73M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "53M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "18M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "65M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "82M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pd",
+            "amount": "73M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "49M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
             "asset_class": "pe",
             "amount": "68M",
             "currency": "HKD"
         },
         {
-            "firm_id": 10,
+            "firm_id": 2670,
             "asset_class": "inf",
-            "amount": "37M",
+            "amount": "9M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "71M",
             "currency": "EUR"
         },
         {
-            "firm_id": 4,
-            "asset_class": "hf",
-            "amount": "29M",
+            "firm_id": 3611,
+            "asset_class": "pe",
+            "amount": "20M",
             "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "27M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "78M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "86M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "11M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "26M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "24M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "inf",
+            "amount": "10M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "nr",
+            "amount": "70M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "18M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "14M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "nr",
+            "amount": "12M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "71M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "93M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "nr",
+            "amount": "65M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "pe",
+            "amount": "12M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "44M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "42M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "78M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "inf",
+            "amount": "99M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "31M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "83M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "hf",
+            "amount": "92M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "inf",
+            "amount": "45M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "pd",
+            "amount": "4M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "76M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "81M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "nr",
+            "amount": "25M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "39M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "99M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "88M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "65M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "inf",
+            "amount": "29M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "hf",
+            "amount": "93M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "74M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "hf",
+            "amount": "44M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "inf",
+            "amount": "66M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "re",
+            "amount": "33M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "32M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "hf",
+            "amount": "37M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "re",
+            "amount": "82M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "94M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pe",
+            "amount": "51M",
+            "currency": "SGD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "re",
+            "amount": "81M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pd",
+            "amount": "20M",
+            "currency": "EUR"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "pd",
+            "amount": "74M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2792,
+            "asset_class": "inf",
+            "amount": "95M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "59M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "25M",
+            "currency": "USD"
+        },
+        {
+            "firm_id": 3611,
+            "asset_class": "nr",
+            "amount": "54M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "93M",
+            "currency": "HKD"
+        },
+        {
+            "firm_id": 2670,
+            "asset_class": "re",
+            "amount": "81M",
+            "currency": "GBP"
+        },
+        {
+            "firm_id": 332,
+            "asset_class": "pe",
+            "amount": "24M",
+            "currency": "GBP"
         }
     ]
 }
