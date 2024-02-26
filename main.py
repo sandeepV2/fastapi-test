@@ -1,10 +1,20 @@
 import json
 from typing import List
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from src.models.firms import Firm
 from src.models.commitment import Commitment
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 ASSET_CLASSES = ["pe", "pd", "re", "inf", "nr", "hf"]
 
 f = open("./db/data.json")
